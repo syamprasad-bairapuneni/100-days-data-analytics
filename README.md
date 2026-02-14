@@ -2,13 +2,13 @@
 
 
 
-\*\*Name:\*\* Syamprasad  
+**Name**: Syamprasad Bairapuneni
 
-\*\*Goal:\*\* Become Job-Ready Data Analyst  
+**Goal**: Become Job-Ready Data Analyst  
 
-\*\*Start Date:\*\* January 2026  
+**Start Date**: January 2026  
 
-\*\*Current Day:\*\* 44/100  
+**Current Day**:44/100  
 
 
 
@@ -46,19 +46,19 @@
 
 \### ✅ Completed
 
-\- \*\*SQL:\*\* Joins, Subqueries, Window Functions, CTEs, Query Optimization
+\- **SQL**: Joins, Subqueries, Window Functions, CTEs, Query Optimization
 
-\- \*\*Power BI:\*\* DAX, Data Modeling, Interactive Dashboards, Storytelling
+\- **Power BI**: DAX, Data Modeling, Interactive Dashboards, Storytelling
 
-\- \*\*Excel:\*\* Advanced formulas, Pivot Tables, Data Cleaning
+\- E**xcel**: Advanced formulas, Pivot Tables, Data Cleaning
 
-\- \*\*Power Query:\*\* ETL, Data Transformation
+\- **Power Query**: ETL, Data Transformation
 
 
 
-\### 🔄 In Progress
+\ 🔄 In Progress
 
-\- \*\*Python:\*\* Core concepts, NumPy, Pandas, Data Visualization
+\- **Python**: Core concepts, NumPy, Pandas, Data Visualization
 
 
 
@@ -116,9 +116,11 @@
 
 
 
-LinkedIn: \[Add your LinkedIn URL]  
+LinkedIn: https://www.linkedin.com/in/syamprasad-bairapuneni
 
-GitHub: \[This repo URL]
+
+GitHub: https://github.com/syamprasad-bairapuneni
+
 
 
 
@@ -126,5 +128,5 @@ GitHub: \[This repo URL]
 
 
 
-\*\*Last Updated:\*\* Day 44 - February 13, 2026
+**Last Updated**: Day 44 - February 13, 2026
 
