@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Progress](https://img.shields.io/badge/Day-49%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Day-51%2F100-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Active-blue)
 ![SQL](https://img.shields.io/badge/SQL-Expert-orange)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Strong-yellow)
@@ -25,7 +25,7 @@
 
 **100-day intensive challenge** to become a job-ready Data Analyst through daily hands-on learning, building real projects, and documenting everything publicly.
 
-**Started:** January 2026 | **Current:** Day 49/100 | **Target:** April 2026
+**Started:** January 2026 | **Current:** Day 51/100 | **Target:** April 2026
 
 ---
 
@@ -35,7 +35,7 @@
 |-------|-------|------|--------|
 | Phase 1 | SQL Mastery | 1–28 | ✅ Complete |
 | Phase 2 | Power BI & Dashboards | 29–43 | ✅ Complete |
-| Phase 3 | Python for Analytics | 44–60 | 🔄 Day 49 |
+| Phase 3 | Python for Analytics | 44–70 | 🔄 Day 51 - Visualization |
 | Phase 4 | Portfolio Projects | 61–80 | ⏳ Upcoming |
 | Phase 5 | Job Ready Mode | 81–100 | ⏳ Upcoming |
 
