@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Progress](https://img.shields.io/badge/Day-51%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Day-52%2F100-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Active-blue)
 ![SQL](https://img.shields.io/badge/SQL-Expert-orange)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Strong-yellow)
@@ -25,7 +25,7 @@
 
 **100-day intensive challenge** to become a job-ready Data Analyst through daily hands-on learning, building real projects, and documenting everything publicly.
 
-**Started:** January 2026 | **Current:** Day 51/100 | **Target:** April 2026
+**Started:** January 2026 | **Current:** Day 52/100 | **Target:** April 2026
 
 ---
 
@@ -257,12 +257,12 @@ This repo is proof that with **daily focused effort**, anyone can become job-rea
 
 **⭐ Star this repo if you're on a learning journey too!**
 
-**51 days completed. 49 days remaining.**
+**52 days completed. 48 days remaining.**
 
 **Halfway point approaching. Momentum is real.** 🔥
 
 ---
 
-**Last Updated:** Day 51 | February 21, 2026
+**Last Updated:** Day 52 | February 22, 2026
 
 </div>
